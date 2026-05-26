@@ -1,0 +1,12 @@
+# Install with uv (CUDA PyTorch):
+#   uv venv --python 3.11
+#   uv sync
+#
+# Or install from this file:
+#   uv pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cu124 --extra-index-url https://pypi.org/simple
+
+torch
+torchvision
+Pillow
+numpy
+tqdm

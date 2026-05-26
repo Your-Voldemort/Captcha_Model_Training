@@ -1,0 +1,6 @@
+/Images
+.venv
+.git
+checkpoints
+data
+__pycache__
